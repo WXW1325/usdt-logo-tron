@@ -1,0 +1,11 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "type": "TRC20",
+  "decimals": 6,
+  "description": "Tether USD stablecoin (TRON TRC20 version).",
+  "website": "https://tether.to",
+  "explorer": "https://tronscan.org/#/token20/TKeDkiojCpDEXskFPgd3P4nSmG82RheXcj",
+  "status": "active",
+  "id": "TKeDkiojCpDEXskFPgd3P4nSmG82RheXcj"
+}
